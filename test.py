@@ -1,5 +1,5 @@
 #!C:\Users\rosenwild\anaconda3\python.exe
-text = "Михайленко!"
+text = "Алуева!"
 s = ''
 
 from PIL import Image, ImageDraw, ImageFont
